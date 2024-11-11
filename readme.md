@@ -1,8 +1,8 @@
-Here’s a simplified and improved version of your **README.md** file for the Amazon Clone Backend:
+Here’s a simplified and improved version of your **README.md** file for the Flipkart Clone Backend:
 
 ---
 
-# Amazon Clone Backend
+# Flipkart Clone Backend
 
 This project is the backend service for an Amazon clone application. It handles user authentication, song management (CRUD operations), and other essential features using **Node.js**, **SQL**, and **Prisma**.
 
