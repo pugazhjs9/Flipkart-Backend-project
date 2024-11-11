@@ -10,7 +10,7 @@ app.use('/api/auth', authRoutes);
 app.use('/api', songRoutes);
 app.use('/api', homeRoutes);
 
-const PORT = process.env.PORT || 5002;
+const PORT = process.env.PORT || 5003;
 connectDB().then(() => {
     app.listen(PORT, () => {
       console.log(`Server is running on port ${PORT}`);
